@@ -81,5 +81,9 @@ let ladders = [
         [1, 0, 1, 0],
         [0, 1, 0, 0],
         [1, 0, 0, 1],
-        ];
+];
 ```
+
+请使用 https://eosjacks.com 上的资源文件, 使用 React 或者 VUE 重新实现动画逻辑.
+
+提交 Pull Request, 我们会即时与你联系.
