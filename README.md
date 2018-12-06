@@ -87,3 +87,5 @@ let ladders = [
 请使用 https://eosjacks.com 上的资源文件, 使用 React 或者 VUE 重新实现动画逻辑.
 
 提交 Pull Request, 我们会即时与你联系.
+
+你可以在这里找到面试官: https://t.me/joinchat/FJBUTRCfEDpch2frwdBFsQ
